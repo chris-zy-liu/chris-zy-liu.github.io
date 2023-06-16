@@ -4,7 +4,7 @@ layout: default
 
 <article>
   {% include meta.html post=page %}
-  {{ page.categories }}
+  <h4>{{ page.categories }}<h4>
   {{ content }}
   {% if page.comments != false and site.comments.isso or site.comments.disqus %}
     <hr>
