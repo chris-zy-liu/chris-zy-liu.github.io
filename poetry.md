@@ -6,19 +6,10 @@ title: Poetry
 
 <div class="posts">
   {% for post in site.categories['Poetry'] %}
-    <article class="post">
-      <h1>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h1>
-      <div>
-        <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-      </div>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
-          Read More
-      </a>
-    </article>
+     <article>
+    	{% include meta.html post=post preview=true %}
+    	{{ post.excerpt }}
+    	<div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+     </article>
   {% endfor %}
 </div>
