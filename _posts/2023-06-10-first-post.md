@@ -1,7 +1,7 @@
----
+--
 title: "First Post"
 layout: post
-categories: general
+categories: General
 ---
 
 Blog generated using Jekyll, a static site generator. Basic template is up.
