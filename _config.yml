@@ -5,6 +5,7 @@ permalink: /:categories/:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+url: "https://chris-zy-liu.github.io"
 
 # Layout
 
@@ -31,3 +32,4 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap
