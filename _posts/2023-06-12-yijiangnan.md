@@ -1,5 +1,5 @@
 ---
-title: "忆江南 · 急雨夜"
+title: "忆江南·急雨夜"
 layout: post
 categories: Poetry
 ---
