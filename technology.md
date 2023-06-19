@@ -4,7 +4,7 @@ permalink: /technology/
 title: Technology
 ---
 
-{% for post in site.categories['Poetry'] %}
+{% for post in site.categories['Technology'] %}
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.excerpt | truncatewords: 124}}
