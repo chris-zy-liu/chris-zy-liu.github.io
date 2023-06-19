@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-10-first-post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3b5e296175e2e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-06-10-first-post.md",
+                "file": "2023-06-19-videoplayer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-10-first-post.md",
+                "file": "2023-06-19-videoplayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-10-first-post.md",
+                "file": "2023-06-19-videoplayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-10-first-post.md"
+                "file": "2023-06-19-videoplayer.md"
               }
             }
           }
@@ -159,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3b5e296175e2e20",
+  "active": "b5da1c2a9b2c6716",
   "lastOpenFiles": [
-    "2023-06-12-yijiangnan.md",
-    "2023-06-18-rumengling.md",
+    "Video player in action.png",
+    "Video player in action.md",
+    "2023-06-19-videoplayer.md",
     "2023-06-10-first-post.md",
+    "Pasted image 20230619171722.png",
+    "2023-06-18-rumengling.md",
+    "2023-06-12-yijiangnan.md",
     "2023-06-12-poetry1.md",
     "Untitled.md"
   ]
