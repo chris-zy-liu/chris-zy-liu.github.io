@@ -4,7 +4,7 @@ layout: post
 categories: Technology
 ---
 
-Sometimes the limitations of a window manager becomes apparent, lacking many features that a desktop environment would have. One feature that I find useful in other desktop environments is an always on screen video player, so that the content we are watching is always visible.
+Sometimes the limitations of a window manager becomes apparent, lacking many features that a desktop environment would have. One feature that I find useful in other desktop environments is an always on screen video player, so that the content we are watching is always visible.<!-- excerpt-end -->
 
 This video player need to have the following features:
 - Follow to other workspaces
