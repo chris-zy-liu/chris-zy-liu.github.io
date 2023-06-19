@@ -7,7 +7,7 @@ title: Technology
 {% for post in site.categories['Technology'] %}
   <article>
     {% include meta.html post=post preview=true %}
-    {{ post.content }}
+    {{ post.excerpt | truncate: 210}}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
