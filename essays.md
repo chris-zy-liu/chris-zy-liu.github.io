@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /technology/
-title: Technology
+permalink: /essay/
+title: Essays
 ---
 
 {% for post in site.categories['Technology'] %}
