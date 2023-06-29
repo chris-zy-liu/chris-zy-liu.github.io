@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /essay/
+permalink: /essays/
 title: Essays
 ---
 
-{% for post in site.categories['Technology'] %}
+{% for post in site.categories['Essays'] %}
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
