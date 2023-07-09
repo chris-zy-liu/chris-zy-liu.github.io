@@ -1,6 +1,6 @@
 title: "积鱼成水"
 author: "Chris Liu"
-description: "积鱼成水 - Blog about poetry & others by Chris Liu"
+description: "Blog about poetry and stuff by Chris Liu"
 permalink: /:categories/:title/
 lang: "en"
 date_format: "%B %d, %Y"
