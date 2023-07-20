@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-17-light.md",
+                "file": "2023-07-17-nearautumn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-17-light.md",
+                "file": "2023-07-17-nearautumn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-17-light.md",
+                "file": "2023-07-17-nearautumn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-17-light.md"
+                "file": "2023-07-17-nearautumn.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b5da1c2a9b2c6716",
   "lastOpenFiles": [
-    "2023-07-16-dielianhua.md",
     "2023-07-17-light.md",
+    "2023-07-17-nearautumn.md",
+    "2023-07-16-dielianhua.md",
     "2023-07-12-summer.md",
     "2023-07-10-moth.md",
     "2023-07-08-weather.md",
