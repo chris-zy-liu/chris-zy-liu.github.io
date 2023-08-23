@@ -1,5 +1,5 @@
 ---
-title: "枯木不笑"
+title: "枯木永远不笑"
 layout: post
 categories: Poetry
 ---
