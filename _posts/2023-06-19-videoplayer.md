@@ -14,7 +14,7 @@ This video player need to have the following features:
 
 Luckily for us, most modern video players have a "Picture in Picture" mode, where the content being played is moved to a smaller stand alone window. In most desktop environments, this would solve our needs. However, this only allows BSPWM to spawn in a tiled window that looks rather ugly.
 
-We can achieve the features we need by using BSPWM and Picom rules.
+We can achieve the features we need by using BSPWM and picom rules.
 
 The simple line
 ```bash
