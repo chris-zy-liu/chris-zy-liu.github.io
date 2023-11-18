@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-02-new.md",
+                "file": "2023-11-18-orchid.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-02-new.md",
+                "file": "2023-11-18-orchid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-02-new.md",
+                "file": "2023-11-18-orchid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-02-new.md"
+                "file": "2023-11-18-orchid.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "bfe125a3179f3468",
   "lastOpenFiles": [
-    "2023-10-31-wither.md",
     "2023-11-02-new.md",
+    "2023-10-31-wither.md",
+    "2023-10-08-cold-air.md",
+    "2023-11-18-orchid.md",
     "2023-07-19-nearautumn.md",
     "2023-08-09-lizard.md",
     "2023-08-12-one-fourth.md",
@@ -192,7 +194,6 @@
     "2023-09-02-wish.md",
     "2023-09-28-rumengling3.md",
     "2023-09-30-taint.md",
-    "2023-10-08-cold-air.md",
     "2023-07-17-light.md",
     "2023-07-16-dielianhua.md",
     "2023-07-12-summer.md",
@@ -207,7 +208,6 @@
     "2023-06-12-yijiangnan.md",
     "2023-07-17-nearautumn.md",
     "Video player in action.png",
-    "Video player in action.md",
     "Pasted image 20230619171722.png"
   ]
 }
