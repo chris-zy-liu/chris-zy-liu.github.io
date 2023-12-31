@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-25-again.md",
+                "file": "2023-12-31-dielianhua2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-25-again.md",
+                "file": "2023-12-31-dielianhua2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-25-again.md",
+                "file": "2023-12-31-dielianhua2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-25-again.md"
+                "file": "2023-12-31-dielianhua2.md"
               }
             }
           },
@@ -183,10 +183,13 @@
   },
   "active": "936d1ae3b6b0ba64",
   "lastOpenFiles": [
-    "2023-11-18-orchid.md",
     "2023-12-10-dusk.md",
     "2023-12-16-snow.md",
+    "2023-12-22-smile.md",
     "2023-12-25-again.md",
+    "2023-12-31-dielianhua2.md",
+    "2023-07-16-dielianhua.md",
+    "2023-11-18-orchid.md",
     "2023-06-18-rumengling.md",
     "2023-06-19-videoplayer.md",
     "2023-07-02-rumengling2.md",
@@ -198,7 +201,6 @@
     "2023-08-12-one-fourth.md",
     "2023-08-19-evergreen.md",
     "2023-08-14-eyes.md",
-    "2023-12-22-smile.md",
     "2023-10-31-wither.md",
     "2023-11-02-new.md",
     "2023-10-08-cold-air.md",
@@ -207,8 +209,6 @@
     "2023-08-26-away.md",
     "2023-09-02-wish.md",
     "2023-09-28-rumengling3.md",
-    "2023-09-30-taint.md",
-    "2023-07-16-dielianhua.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
