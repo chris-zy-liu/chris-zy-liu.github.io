@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df8f6135c076b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-24-seven-seconds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4983065dc1884ef2",
+  "active": "df8f6135c076b6f3",
   "lastOpenFiles": [
     "2024-02-18-old-moon.md",
     "2024-02-24-seven-seconds.md",
