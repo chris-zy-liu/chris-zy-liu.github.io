@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-01-march.md",
+                "file": "2024-03-06-wishes.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-01-march.md",
+                "file": "2024-03-06-wishes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-01-march.md",
+                "file": "2024-03-06-wishes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-01-march.md"
+                "file": "2024-03-06-wishes.md"
               }
             }
           },
@@ -209,10 +209,11 @@
   },
   "active": "df8f6135c076b6f3",
   "lastOpenFiles": [
+    "2024-03-01-march.md",
+    "2024-03-06-wishes.md",
     "2023-06-18-rumengling.md",
     "2023-07-02-rumengling2.md",
     "2023-09-28-rumengling3.md",
-    "2024-03-01-march.md",
     "2023-06-29-mengyouxing.md",
     "2023-06-19-videoplayer.md",
     "2023-06-12-yijiangnan.md",
@@ -234,7 +235,6 @@
     "2023-08-09-lizard.md",
     "2023-08-12-one-fourth.md",
     "2023-08-19-evergreen.md",
-    "2023-08-14-eyes.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
