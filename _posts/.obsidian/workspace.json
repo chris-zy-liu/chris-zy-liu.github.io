@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-31-burden.md",
+                "file": "2024-04-10-fallen.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-31-burden.md",
+                "file": "2024-04-10-fallen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-31-burden.md",
+                "file": "2024-04-10-fallen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-31-burden.md"
+                "file": "2024-04-10-fallen.md"
               }
             }
           },
@@ -221,8 +221,9 @@
   },
   "active": "af47145040a2569a",
   "lastOpenFiles": [
-    "2024-03-23-window.md",
     "2024-03-31-burden.md",
+    "2024-04-10-fallen.md",
+    "2024-03-23-window.md",
     "2024-03-17-sun.md",
     "2024-03-06-wishes.md",
     "2023-07-17-light.md",
@@ -246,7 +247,6 @@
     "2023-11-18-orchid.md",
     "2023-07-04-reflection.md",
     "2023-07-10-moth.md",
-    "2023-07-12-summer.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
