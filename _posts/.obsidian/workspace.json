@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23-answer.md",
+                "file": "2024-05-25-insomnia.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23-answer.md",
+                "file": "2024-05-25-insomnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23-answer.md",
+                "file": "2024-05-25-insomnia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23-answer.md"
+                "file": "2024-05-25-insomnia.md"
               }
             }
           },
@@ -233,8 +233,9 @@
   },
   "active": "648fbee01eaebabb",
   "lastOpenFiles": [
-    "2024-05-19-song.md",
     "2024-05-23-answer.md",
+    "2024-05-25-insomnia.md",
+    "2024-05-19-song.md",
     "2024-05-17-orange.md",
     "2024-05-10-clown.md",
     "2024-05-07-summer.md",
@@ -258,7 +259,6 @@
     "2023-06-12-yijiangnan.md",
     "2024-02-24-seven-seconds.md",
     "2024-02-18-old-moon.md",
-    "2024-01-13-heed.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
