@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-05-industry.md",
+                "file": "2024-06-07-compass.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-05-industry.md",
+                "file": "2024-06-07-compass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-05-industry.md",
+                "file": "2024-06-07-compass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-05-industry.md"
+                "file": "2024-06-07-compass.md"
               }
             }
           },
@@ -233,8 +233,9 @@
   },
   "active": "648fbee01eaebabb",
   "lastOpenFiles": [
-    "2024-06-02-organic.md",
     "2024-06-05-industry.md",
+    "2024-06-07-compass.md",
+    "2024-06-02-organic.md",
     "2024-05-07-summer.md",
     "2024-04-28-god.md",
     "2024-05-10-clown.md",
@@ -258,7 +259,6 @@
     "2023-06-18-rumengling.md",
     "2023-07-02-rumengling2.md",
     "2023-09-28-rumengling3.md",
-    "2023-06-29-mengyouxing.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
