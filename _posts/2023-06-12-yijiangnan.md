@@ -4,7 +4,7 @@ layout: post
 categories: Poetry
 ---
 
-二月二十八日晚来微雨，兴起赋词。
+二月二十八日晚来微雨。
 
 > 急雨夜，
 > 花散锦春年。
