@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-14-panacea.md",
+                "file": "2024-06-19-morning.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-14-panacea.md",
+                "file": "2024-06-19-morning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-14-panacea.md",
+                "file": "2024-06-19-morning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-14-panacea.md"
+                "file": "2024-06-19-morning.md"
               }
             }
           },
@@ -256,6 +256,8 @@
   },
   "active": "b5da1c2a9b2c6716",
   "lastOpenFiles": [
+    "2024-06-14-panacea.md",
+    "2024-06-19-morning.md",
     "2024-06-10-airplane.md",
     "2024-06-07-compass.md",
     "2024-06-05-industry.md",
@@ -280,8 +282,6 @@
     "(hidden)2023-06-10-first-post.md",
     "2023-06-12-yijiangnan.md",
     "2023-06-18-rumengling.md",
-    "2023-06-19-videoplayer.md",
-    "2023-06-29-mengyouxing.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
