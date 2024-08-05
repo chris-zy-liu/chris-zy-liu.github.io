@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-31-sunk.md",
+                "file": "2024-08-04-notes1.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-31-sunk.md",
+                "file": "2024-08-04-notes1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-31-sunk.md",
+                "file": "2024-08-04-notes1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-31-sunk.md"
+                "file": "2024-08-04-notes1.md"
               }
             }
           },
@@ -268,8 +268,9 @@
   },
   "active": "b5da1c2a9b2c6716",
   "lastOpenFiles": [
-    "2024-07-29-darwin.md",
     "2024-07-31-sunk.md",
+    "2024-08-04-notes1.md",
+    "2024-07-29-darwin.md",
     "2024-07-15-journey.md",
     "2024-07-03-moonbay.md",
     "2024-07-07-bus.md",
@@ -293,7 +294,6 @@
     "2024-03-17-sun.md",
     "2024-03-06-wishes.md",
     "2024-03-01-march.md",
-    "2024-02-18-old-moon.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
