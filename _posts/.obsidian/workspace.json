@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-29-old.md",
+                "file": "2024-09-08-sea.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-29-old.md",
+                "file": "2024-09-08-sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-29-old.md",
+                "file": "2024-09-08-sea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-29-old.md"
+                "file": "2024-09-08-sea.md"
               }
             }
           },
@@ -268,8 +268,9 @@
   },
   "active": "b5da1c2a9b2c6716",
   "lastOpenFiles": [
+    "2024-08-29-shaman.md",
+    "2024-09-08-sea.md",
     "2024-08-17-notes2.md",
-    "2024-08-29-old.md",
     "2024-08-04-notes1.md",
     "2024-07-31-sunk.md",
     "2024-07-29-darwin.md",
@@ -293,7 +294,6 @@
     "2024-04-10-fallen.md",
     "2024-03-31-burden.md",
     "2024-03-23-window.md",
-    "2024-03-17-sun.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
