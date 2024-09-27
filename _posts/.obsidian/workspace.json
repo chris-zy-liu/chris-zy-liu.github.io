@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-19-script.md",
+                "file": "2024-09-27-helene.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-19-script.md",
+                "file": "2024-09-27-helene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-19-script.md",
+                "file": "2024-09-27-helene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-19-script.md"
+                "file": "2024-09-27-helene.md"
               }
             }
           },
@@ -268,9 +268,10 @@
   },
   "active": "b5da1c2a9b2c6716",
   "lastOpenFiles": [
-    "2024-09-08-sea.md",
     "2024-09-19-script.md",
+    "2024-09-27-helene.md",
     "Untitled.md",
+    "2024-09-08-sea.md",
     "2024-08-29-shaman.md",
     "2024-08-17-notes2.md",
     "2024-08-04-notes1.md",
@@ -293,7 +294,6 @@
     "2024-04-28-god.md",
     "2024-04-20-away.md",
     "2024-04-14-farewell.md",
-    "2024-04-10-fallen.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
