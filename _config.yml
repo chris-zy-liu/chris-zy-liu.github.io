@@ -1,7 +1,7 @@
 title: "积鱼成水 - Gathering Fish Into Water"
 author: "Chris Liu"
 description: "On poetry, short stories and essays. Forgetfulness, happiness and thoughts."
-permalink: /:title/
+permalink: /:categories/:title/
 lang: "en"
 date_format: "%B %d, %Y"
 url: "https://chris-zy-liu.github.io"
