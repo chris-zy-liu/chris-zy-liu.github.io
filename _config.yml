@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home}
   - {file: "poetry.md", icon: pen-nib}
   - {file: "essays.md", icon: paperclip}
+  - {file: "shortstories.md", icon: quote-left}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto://chris.zy.liu@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/chris-zy-liu"}
