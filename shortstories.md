@@ -4,7 +4,7 @@ permalink: /shortstories/
 title: Short Stories
 ---
 
-{% for post in site.categories['Short Stories'] %}
+{% for post in site.categories['Short&nbsp;Stories'] %}
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
