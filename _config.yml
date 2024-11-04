@@ -9,7 +9,7 @@ url: "https://chris-zy-liu.github.io"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home pageshow_frame: false           # adds a gray frame to the site
-show_frame: true           # adds a gray frame to the site
+show_frame: false           # adds a gray frame to the site
 minimal: false             # use a dark header
 excerpt_separator: <!-- excerpt-end -->
 
