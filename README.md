@@ -1,3 +1,7 @@
-# Personal Jekyll Blog
+# Gathering Fish into Water
 
-Probably never going to update
+Usually filled with poetry, short stories and essays.
+
+Occasionally (during bad weather) with forgetfulness, happiness and thoughts.
+
+C.Z. Liu

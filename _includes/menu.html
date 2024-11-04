@@ -6,5 +6,6 @@
   <a href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
 	  {%- if item.icon -%}<svg aria-label="{{ title }}" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use></svg> {{ title }}{%- else -%}{{ title }}{%- endif -%}
   </a>
+  <br>
 {%- endfor -%}
 </nav>
