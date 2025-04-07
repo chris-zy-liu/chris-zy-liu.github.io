@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-3-14-zoo.md",
+                "file": "2025-4-07-dirt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-3-14-zoo"
+              "title": "2025-4-07-dirt"
             }
           }
         ],
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-3-14-zoo.md",
+                "file": "2025-4-07-dirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-3-14-zoo"
+              "title": "Backlinks for 2025-4-07-dirt"
             }
           },
           {
@@ -360,8 +360,9 @@
   },
   "active": "42e5fd2a99cd1013",
   "lastOpenFiles": [
-    "2025-2-09-yeast.md",
     "2025-3-14-zoo.md",
+    "2025-4-07-dirt.md",
+    "2025-2-09-yeast.md",
     "2024-12-10-marble.md",
     "2024-11-15-ahead.md",
     "2024-11-27-forestry.md",
@@ -386,7 +387,6 @@
     "2024-07-31-sunk.md",
     "2024-07-29-darwin.md",
     "2024-07-15-journey.md",
-    "2024-07-07-bus.md",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
   ]
