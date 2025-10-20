@@ -13,26 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-9-12-hay.md",
+                "file": "2025-9-29-2ndqinghai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-9-12-hay"
+              "title": "2025-9-29-2ndqinghai"
             }
           },
           {
             "id": "6e57405fdb47abb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-03-bugutu.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-11-03-bugutu"
+              "title": "New tab"
             }
           },
           {
@@ -139,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-07-compass.md",
+                "file": "2025-9-29-black.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-06-07-compass"
+              "title": "2025-9-29-black"
             }
           },
           {
@@ -167,12 +163,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-28-god.md",
+                "file": "2025-9-25-residence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-04-28-god"
+              "title": "2025-9-25-residence"
             }
           },
           {
@@ -181,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-27-wide-pebble.md",
+                "file": "2025-9-22-galaxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-27-wide-pebble"
+              "title": "2025-9-22-galaxy"
             }
           },
           {
@@ -231,7 +227,8 @@
               "title": "2025-5-25-generation"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -400,34 +397,34 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "b5da1c2a9b2c6716",
+  "active": "648fbee01eaebabb",
   "lastOpenFiles": [
-    "2025-9-10-murder.md",
+    "2025-10-09-gold.md",
+    "2025-10-01-blue.md",
+    "2025-9-29-black.md",
+    "2025-9-29-2ndqinghai.md",
+    "2025-9-25-residence.md",
+    "2025-9-22-galaxy.md",
+    "2025-9-19-blessing.md",
+    "2025-9-15-iris.md",
     "2025-9-12-hay.md",
-    "2025-9-08-disguise.md",
-    "2025-9-02-apple.md",
-    "2025-9-02-apple 1 1.md",
-    "2025-9-02-1dagger.md",
-    "2025-8-28-doves.md",
-    "2025-8-27-eyes.md",
-    "2025-8-26-poem.md",
-    "2025-8-25-earth.md",
-    "2025-8-22-prometheus.md",
-    "2025-8-18-honey.md",
-    "2025-8-15-pingshengle.md",
-    "2024-07-03-moonbay.md",
-    "2024-06-19-morning.md",
-    "2024-06-14-panacea.md",
-    "2024-06-10-airplane.md",
+    "2025-9-10-murder.md",
     "2024-06-07-compass.md",
-    "2024-06-05-industry.md",
-    "2024-06-02-organic.md",
-    "2024-05-30-magic.md",
-    "2024-07-07-bus.md",
+    "2024-04-10-fallen.md",
+    "2024-01-01-heart.md",
+    "2024-02-24-seven-seconds.md",
+    "2023-12-31-dielianhua2.md",
+    "2023-11-18-orchid.md",
     "2024-07-15-journey.md",
-    "2025-8-08-book.md",
+    "2024-10-10-red.md",
+    "2025-5-25-generation.md",
+    "2025-5-02-independence.md",
     "2025-4-11-jiangchengzi.md",
-    "2023-09-02-wish.md",
+    "2024-04-28-god.md",
+    "(hidden)2024-10-27-wide-pebble.md",
+    "2023-10-08-cold-air.md",
+    "2025-7-26-qinghai.md",
+    "2025-8-27-eyes.md",
     "Pasted image 20241104180106.png",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
