@@ -135,12 +135,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-01-run.md",
+                "file": "2023-06-19-videoplayer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-01-run"
+              "title": "2023-06-19-videoplayer"
+            }
+          },
+          {
+            "id": "3bf12b300f2ab391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-06-22-Weave.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-22-Weave"
             }
           },
           {
@@ -228,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -389,6 +403,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -397,10 +412,22 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "648fbee01eaebabb",
+  "active": "3bf12b300f2ab391",
   "lastOpenFiles": [
-    "2026-03-17-white.md",
+    "2026-06-20-boots.md",
+    "2026-06-22-Weave.md",
+    "2026-06-18-youth.md",
+    "2026-06-14-probability.md",
+    "2026-06-10-late.md",
+    "2026-06-03-flight.md",
+    "2026-05-06-permit.md",
+    "2026-05-04-utopia.md",
+    "2026-04-21-heirloom.md",
+    "2026-04-02-moon-shihtzu.md",
     "2026-04-01-run.md",
+    "README.md",
+    "2023-07-02-rumengling2.md",
+    "2026-03-17-white.md",
     "2026-03-07-highway.md",
     "2026-03-02-poets.md",
     "2026-02-24-evening.md",
@@ -413,18 +440,6 @@
     "2026-01-16-winter.md",
     "2026-01-11-shaman.md",
     "2026-01-01-eve.md",
-    "2025-11-05-funeral.md",
-    "2025-11-12-frog.md",
-    "2025-10-26-east.md",
-    "2025-10-09-gold.md",
-    "2025-9-29-black.md",
-    "2025-10-01-blue.md",
-    "2025-9-29-2ndqinghai.md",
-    "2025-9-25-residence.md",
-    "2025-9-22-galaxy.md",
-    "2025-9-19-blessing.md",
-    "2025-9-15-iris.md",
-    "2025-9-12-hay.md",
     "Pasted image 20241104180106.png",
     "Video player in action.png",
     "Pasted image 20230619171722.png"
